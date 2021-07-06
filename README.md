@@ -7,6 +7,7 @@ My name is Savyo Brenner and I'm a software developer / iOS Developer.
 - 💬 Ask me about Naruto facts.
 - 📫 You can reach me with 'savyobrenner' on [Twitter](https://twitter.com/savyobrenner) and [Linkedin](https://www.linkedin.com/in/savyobrenner/).
 
-<a href="https://github.com/savyobrenner/github-readme-stats">
+<!-- <a href="https://github.com/savyobrenner/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyobrenner&layout=compact&hide=c,kotlin" />
 </a>
+!-->
