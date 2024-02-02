@@ -2,7 +2,7 @@
 
 My name is Savyo Brenner and I'm a software developer / iOS Developer.
 
-- 🔭 I’m currently working at VeryCreatives.
+- 💼 I’m currently employed in the tech industry.
 - 🌱 I'm currently working on a macOS app to automate the invoicing process for freelance developers.
 - 💬 Ask me about Naruto facts.
 - 📫 You can reach me with 'savyobrenner' on [Twitter](https://twitter.com/savyobrenner) and [Linkedin](https://www.linkedin.com/in/savyobrenner/).
